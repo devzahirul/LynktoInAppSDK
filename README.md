@@ -1,3 +1,3 @@
 # LynktoInAppSDK
 
-A description of this package.
+InAppPurchase for Apple platform written in Swift , compatable for iosv13 to next
